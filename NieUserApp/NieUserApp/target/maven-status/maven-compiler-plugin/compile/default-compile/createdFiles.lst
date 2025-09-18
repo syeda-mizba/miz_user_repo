@@ -1,0 +1,6 @@
+com\nie\Repositories\UserRepository.class
+com\nie\controller\UserController.class
+com\nie\NieUserAppApplication.class
+com\nie\model\User.class
+com\nie\Services\UserService.class
+com\nie\ServletInitializer.class
